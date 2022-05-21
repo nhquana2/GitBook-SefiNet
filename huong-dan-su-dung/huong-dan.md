@@ -4,7 +4,7 @@
 
 Trên thanh điều hướng, click vào menu dropdown **Cơ sở dữ liệu**.
 
-![Menu Cơ sở dữ liệu](<../.gitbook/assets/image (31).png>)
+![Menu Cơ sở dữ liệu](<../.gitbook/assets/image (31) (1).png>)
 
 Click chọn một trong ba mục để xem nội dung tương ứng:
 
@@ -12,7 +12,7 @@ Click chọn một trong ba mục để xem nội dung tương ứng:
 * **Website an toàn**
 * **Báo cáo bổ sung dữ liệu website**
 
-![](<../.gitbook/assets/image (33) (1).png>)
+![](<../.gitbook/assets/image (33) (1) (1).png>)
 
 ## CSDL website kém an toàn, lừa đảo
 
@@ -25,7 +25,7 @@ Kéo xuống phần giữa trang để xem danh sách những **website kém an 
 * **Mức độ nguy hiểm**
 * **Hình thức**
 
-![](<../.gitbook/assets/image (32) (1).png>)
+![](<../.gitbook/assets/image (32) (1) (1).png>)
 
 **Bảng dữ liệu** còn cho phép thực hiện một số thao tác:
 
@@ -35,15 +35,15 @@ Kéo xuống phần giữa trang để xem danh sách những **website kém an 
 
 * Nút **Export** để xuất danh sách những website kém an toàn, lừa đảo thành các dạng file: Excel, CSV hoặc copy danh sách này.
 
-![](<../.gitbook/assets/image (38) (1).png>)
+![](<../.gitbook/assets/image (38) (1) (1).png>)
 
 * Tuỳ chọn **Xem** để chỉnh số dòng dữ liệu website hiển thị trong một trang.
 
-![](<../.gitbook/assets/image (35).png>)
+![](<../.gitbook/assets/image (35) (1).png>)
 
 * Ở cuối trang, sử dụng dấu **>>**, **<<** hoặc các **số trang** để chuyển trang.
 
-![](<../.gitbook/assets/image (39) (1).png>)
+![](<../.gitbook/assets/image (39) (1) (1).png>)
 
 ## CSDL website an toàn
 
@@ -56,7 +56,7 @@ Kéo xuống phần giữa trang để xem danh sách những **website an toàn
 * **Độ tin cậy**
 * **Hình thức**
 
-![](<../.gitbook/assets/image (34).png>)
+![](<../.gitbook/assets/image (34) (1).png>)
 
 Các thao tác khác tương tự như đối với bảng dữ liệu website kém an toàn, lừa đảo.
 
@@ -66,10 +66,10 @@ Kéo xuống phần biểu mẫu (form) để điền thông tin báo cáo bổ 
 
 Điền đầy đủ thông tin: **Họ và tên, email, địa chỉ website báo cáo, phân loại website,...** và các mục khác theo hướng dẫn của biểu mẫu có sẵn.
 
-![](<../.gitbook/assets/image (37).png>)
+![](<../.gitbook/assets/image (37) (1).png>)
 
 Đọc và đồng ý với những điều khoản được nêu.
 
 Click vào nút **Gửi báo cáo** để hoàn thành gửi báo cáo bổ sung dữ liệu website.
 
-![](<../.gitbook/assets/image (30) (1).png>)
+![](<../.gitbook/assets/image (30) (1) (1).png>)
