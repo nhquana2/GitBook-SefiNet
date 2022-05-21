@@ -1,17 +1,26 @@
 # Blog chia sẻ kiến thức
 
-## Thông báo
+## Truy cập Blog chia sẻ kiến thức
 
-1. Trên thanh điều hướng, click vào "Blog" và chọn "Thông Báo"
-2. Ở đây sẽ có những bài viết chia sẻ về thông tin liên quan đến dịch vụ của Sefinet.
-3. Chọn một bài viết bất kì để đọc và tìm hiểu thêm thông tin, sau mỗi bài viết sẽ có phần "Bình luận". Trong phần bình luận này sẽ là phần góp ý về bài viết, đặt câu hỏi cho tác giả cũng như là hệ thống Sefinet để góp phần hoàn thiện hệ thống.
-4. Điền đầy đủ thông tin: Bình luận, Họ và Tên.
-5. Click vào "Gửi" để hoàn thành phần bình luận&#x20;
+Trên thanh điều hướng, click vào menu dropdown **Blog**.
 
-## Bảo mật
+Hiện tại có thể xem bài viết theo các chuyên mục:
 
-1. Trên thanh điều hướng, click vào "Blog" và chọn "Bảo mật"
-2. Ở đây sẽ có những bài viết chia sẻ về thông tin liên quan đến vấn đề bảo mật.
-3. Chọn một bài viết bất kì để đọc và tìm hiểu thêm thông tin, sau mỗi bài viết sẽ có phần "Bình luận". Trong phần bình luận này sẽ là phần góp ý về bài viết, đặt câu hỏi cho tác giả cũng như là hệ thống Sefinet để góp phần hoàn thiện hệ thống.
-4. Điền đầy đủ thông tin: Bình luận, Họ và Tên.
-5. Click vào "Gửi" để hoàn thành phần bình luận
+* **Thông báo**
+* **Bảo mật**
+* **Tin tức **_**(đang cập nhật)**_
+* **Khác **_**(đang cập nhật)**_
+
+## Đọc bài viết
+
+Sau khi đã chọn được chuyên mục, danh sách bài viết sẽ hiện ra theo dạng lưới.
+
+Bạn nhấn vào ảnh thumbnail hoặc tên bài viết để đọc chi tiết bài viết.
+
+Giao diện đọc bài viết:
+
+## Bình luận, góp ý
+
+1. Sau mỗi bài viết sẽ có phần **Bình luận**. Trong phần bình luận này bạn có thể để lại góp ý, ý kiến về bài viết, đặt câu hỏi cho tác giả.
+2. Để bình luận, bạn cần điền đầy đủ thông tin: **Bình luận, Họ và Tên** vào form.
+3. Click vào **Gửi** để hoàn tất và gửi bình luận.
