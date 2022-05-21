@@ -11,3 +11,7 @@
 * Có fanpage dễ dàng hỗ trợ người dùng về sự cố, góp ý, thắc mắc.
 
 ## Nhược điểm
+
+* Việc bổ sung cơ sở dữ liệu phải thông qua đánh giá thủ công.&#x20;
+* Nội dung chưa nhiều, đang được bổ sung thêm.
+* Chưa thể bao quát được toàn bộ các website hiện có.
