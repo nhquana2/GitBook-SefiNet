@@ -8,8 +8,8 @@ description: >-
 
 Hướng dẫn sử dụng các dịch vụ:
 
-{% content-ref url="huong-dan.md" %}
-[huong-dan.md](huong-dan.md)
+{% content-ref url="huong-dan-su-dung-co-so-du-lieu.md" %}
+[huong-dan-su-dung-co-so-du-lieu.md](huong-dan-su-dung-co-so-du-lieu.md)
 {% endcontent-ref %}
 
 

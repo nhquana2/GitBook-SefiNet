@@ -8,5 +8,5 @@
   * [Quá trình thực hiện](thuyet-minh-du-an/qua-trinh-thuc-hien.md)
   * [Các tính năng chính](thuyet-minh-du-an/cac-tinh-nang-chinh.md)
 * [📙 Hướng dẫn sử dụng](huong-dan-su-dung/README.md)
-  * [Hướng dẫn](huong-dan-su-dung/huong-dan.md)
+  * [Hướng dẫn sử dụng Cơ sở dữ liệu](huong-dan-su-dung/huong-dan-su-dung-co-so-du-lieu.md)
   * [Page 1](huong-dan-su-dung/page-1.md)
