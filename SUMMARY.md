@@ -9,4 +9,4 @@
   * [Các tính năng chính](thuyet-minh-du-an/cac-tinh-nang-chinh.md)
 * [📙 Hướng dẫn sử dụng](huong-dan-su-dung/README.md)
   * [Hướng dẫn sử dụng Cơ sở dữ liệu](huong-dan-su-dung/huong-dan.md)
-  * [Page 1](huong-dan-su-dung/page-1.md)
+  * [Hướng dẫn sử dụng Blog chia sẻ kiến thức](huong-dan-su-dung/huong-dan-su-dung-blog-chia-se-kien-thuc.md)
