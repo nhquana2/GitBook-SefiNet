@@ -12,7 +12,7 @@ Click chọn một trong ba mục để xem nội dung tương ứng:
 * **Website an toàn**
 * **Báo cáo bổ sung dữ liệu website**
 
-![](<../.gitbook/assets/image (33).png>)
+![](<../.gitbook/assets/image (33) (1).png>)
 
 ## CSDL website kém an toàn, lừa đảo
 
@@ -25,7 +25,7 @@ Kéo xuống phần giữa trang để xem danh sách những **website kém an 
 * **Mức độ nguy hiểm**
 * **Hình thức**
 
-![](<../.gitbook/assets/image (32).png>)
+![](<../.gitbook/assets/image (32) (1).png>)
 
 **Bảng dữ liệu** còn cho phép thực hiện một số thao tác:
 
@@ -35,7 +35,7 @@ Kéo xuống phần giữa trang để xem danh sách những **website kém an 
 
 * Nút **Export** để xuất danh sách những website kém an toàn, lừa đảo thành các dạng file: Excel, CSV hoặc copy danh sách này.
 
-![](<../.gitbook/assets/image (38).png>)
+![](<../.gitbook/assets/image (38) (1).png>)
 
 * Tuỳ chọn **Xem** để chỉnh số dòng dữ liệu website hiển thị trong một trang.
 
@@ -43,7 +43,7 @@ Kéo xuống phần giữa trang để xem danh sách những **website kém an 
 
 * Ở cuối trang, sử dụng dấu **>>**, **<<** hoặc các **số trang** để chuyển trang.
 
-![](<../.gitbook/assets/image (39).png>)
+![](<../.gitbook/assets/image (39) (1).png>)
 
 ## CSDL website an toàn
 
@@ -72,4 +72,4 @@ Kéo xuống phần biểu mẫu (form) để điền thông tin báo cáo bổ 
 
 Click vào nút **Gửi báo cáo** để hoàn thành gửi báo cáo bổ sung dữ liệu website.
 
-![](<../.gitbook/assets/image (30).png>)
+![](<../.gitbook/assets/image (30) (1).png>)
