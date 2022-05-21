@@ -43,7 +43,10 @@ Các thao tác khác tương tự như đối với bảng dữ liệu website k
 
 ## Báo cáo bổ sung dữ liệu website
 
-1. Trên thanh điều hướng, click vào "Cơ sở dữ liệu" và chọn "Website kém an toàn, lừa đảo"
-2. Kéo xuống phần cuối trang để bổ sung dữ liệu website&#x20;
-3. Điền đầy đủ thông tin: Họ và tên, Email, địa chỉ website báo cáo, ...
-4. Click vào "Gửi báo cáo" để hoàn thành bổ sung dữ liệu website
+Kéo xuống phần biểu mẫu (form) để điền thông tin báo cáo bổ sung dữ liệu website.
+
+Điền đầy đủ thông tin: Họ và tên, email, địa chỉ website báo cáo, phân loại website,... và các mục khác theo hướng dẫn của biểu mẫu có sẵn.
+
+Đọc và đồng ý với những điều khoản được nêu.
+
+Click vào nút **Gửi báo cáo** để hoàn thành gửi báo cáo bổ sung dữ liệu website.

@@ -1,4 +1,4 @@
-# Hướng dẫn sử dụng Blog chia sẻ kiến thức
+# Blog chia sẻ kiến thức
 
 ## Thông báo
 
