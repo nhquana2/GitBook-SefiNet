@@ -2,6 +2,8 @@
 
 ### Ý nghĩa và mục tiêu của sản phẩm
 
+### Tầm nhìn ứng dụng thực tế
+
 ### Giao diện
 
 ### Tính năng
