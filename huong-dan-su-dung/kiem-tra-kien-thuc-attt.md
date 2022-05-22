@@ -15,7 +15,7 @@ Giao diện hệ thống cho phép bạn thực hiện:
 
 Click vào nút **Làm bài kiểm tra** ở phía bên trái.
 
-![](<../.gitbook/assets/image (32).png>)
+![](<../.gitbook/assets/image (32) (1).png>)
 
 Giao diện làm bài hiện lên gồm:
 
@@ -41,7 +41,7 @@ Có thể click vào nút **Làm lại** để thực hiện bài kiểm tra m�
 
 Click vào nút **Xem qua các ví dụ** ở phía bên phải.
 
-![](<../.gitbook/assets/image (37).png>)
+![](<../.gitbook/assets/image (37) (1).png>)
 
 Tại đây các ví dụ sẽ được hiển thị theo dạng lưới.&#x20;
 

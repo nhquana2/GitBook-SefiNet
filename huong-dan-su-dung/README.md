@@ -12,5 +12,14 @@ Hướng dẫn sử dụng các dịch vụ:
 [huong-dan.md](huong-dan.md)
 {% endcontent-ref %}
 
+{% content-ref url="huong-dan-su-dung-blog-chia-se-kien-thuc.md" %}
+[huong-dan-su-dung-blog-chia-se-kien-thuc.md](huong-dan-su-dung-blog-chia-se-kien-thuc.md)
+{% endcontent-ref %}
 
+{% content-ref url="kiem-tra-kien-thuc-attt.md" %}
+[kiem-tra-kien-thuc-attt.md](kiem-tra-kien-thuc-attt.md)
+{% endcontent-ref %}
 
+{% content-ref url="extension-kiem-soat-truy-cap-internet.md" %}
+[extension-kiem-soat-truy-cap-internet.md](extension-kiem-soat-truy-cap-internet.md)
+{% endcontent-ref %}

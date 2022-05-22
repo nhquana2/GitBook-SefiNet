@@ -19,7 +19,7 @@ Hiện tại có thể xem bài viết theo các chuyên mục:
 
 Sau khi đã chọn được chuyên mục, danh sách bài viết sẽ hiện ra theo dạng lưới.
 
-![](<../.gitbook/assets/image (32) (1).png>)
+![](<../.gitbook/assets/image (32) (1) (1).png>)
 
 Bạn nhấn vào ảnh thumbnail hoặc tên bài viết để đọc chi tiết bài viết.
 

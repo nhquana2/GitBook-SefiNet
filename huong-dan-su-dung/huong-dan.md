@@ -25,13 +25,13 @@ Kéo xuống phần giữa trang để xem danh sách những **website kém an 
 * **Mức độ nguy hiểm**
 * **Hình thức**
 
-![](<../.gitbook/assets/image (32) (1) (1).png>)
+![](<../.gitbook/assets/image (32) (1) (1) (1).png>)
 
 **Bảng dữ liệu** còn cho phép thực hiện một số thao tác:
 
 * Nút **Print** để in danh sách những website kém an toàn, lừa đảo. Sau khi nhấn Print, hộp thoại In được tích hợp sẵn trên trình duyệt sẽ hiện ra.
 
-![](<../.gitbook/assets/image (36).png>)
+![](<../.gitbook/assets/image (36) (1).png>)
 
 * Nút **Export** để xuất danh sách những website kém an toàn, lừa đảo thành các dạng file: Excel, CSV hoặc copy danh sách này.
 
@@ -66,7 +66,7 @@ Kéo xuống phần biểu mẫu (form) để điền thông tin báo cáo bổ 
 
 Điền đầy đủ thông tin: **Họ và tên, email, địa chỉ website báo cáo, phân loại website,...** và các mục khác theo hướng dẫn của biểu mẫu có sẵn.
 
-![](<../.gitbook/assets/image (37) (1).png>)
+![](<../.gitbook/assets/image (37) (1) (1).png>)
 
 Đọc và đồng ý với những điều khoản được nêu.
 

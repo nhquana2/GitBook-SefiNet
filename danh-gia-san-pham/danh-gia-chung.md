@@ -20,12 +20,26 @@ Hệ thống CSDL website giúp người dùng phân loại website nhanh chóng
 
 **Logo:** **SefiNet** sử dụng logo có màu xanh dương, tượng trưng cho lá chắn bảo vệ không gian mạng.
 
+![](<../.gitbook/assets/image (37).png>)
+
 **Bố cục, hình thức website:** Bố cục tối giản, sử dụng màu cam và xanh dương làm màu chủ đạo cho website, cùng với các hình minh hoạ 3D minh hoạ đẹp mắt.
+
+![](<../.gitbook/assets/image (43).png>)
 
 ### Tính năng
 
 Trang bị các tính năng hỗ trợ người dùng đầy đủ.&#x20;
 
+Thao tác sử dụng các tính năng đơn giản, dễ thực hiện.
+
 ### Nội dung
 
+Hệ thống CSDL đang được cập nhật bổ sung thêm thường xuyên, phân loại thành website kém an toàn và an toàn.
+
+Cung cấp bài viết chia sẻ kiến thức chất lượng, cô đọng, đúng trọng tâm cho người dùng.
+
 ### Truyền thông
+
+**Fanpage Facebook:** [https://www.facebook.com/sefinet/](https://www.facebook.com/sefinet/) thu hút được sự quan tâm, theo dõi của gần 100 người dùng.
+
+![](<../.gitbook/assets/image (36).png>)
