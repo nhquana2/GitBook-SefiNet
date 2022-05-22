@@ -8,7 +8,7 @@
 
 **IP:** 172.67.195.18 (Cloudflare DNS)
 
-**Phiên bản PHP sử dụng:**
+**Phiên bản PHP sử dụng:** 8.0
 
 **Hệ quản trị dữ liệu:** MySQL
 
