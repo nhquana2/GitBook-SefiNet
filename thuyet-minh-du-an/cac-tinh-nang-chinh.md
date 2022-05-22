@@ -7,15 +7,15 @@ Hệ thống cơ sở dữ liệu phân loại các website an toàn và kém an
 #### Khi truy cập vào một website nhưng không chắc chắn về mức độ an toàn, đáng tin cậy của website đó, người dùng có thể:
 
 * Tìm kiếm website trong bảng cơ sở dữ liệu hiện có theo tên miền.
-* Xem các thông tin chi tiết về website đó, bao gồm:&#x20;
+* Xem các thông tin chi tiết về website đó, bao gồm:
   * _**Tên miền.**_
-  * _**Mức độ nguy hiểm** _ (có 3 mức độ: Cao, Trung bình, Thấp - áp dụng đối với website thuộc phân loại kém an toàn).
-  * _**Mức độ tin cậy**_** ** (có 3 mức độ: Cao, Trung bình, Thấp - áp dụng đối với website thuộc phân loại an toàn).
-  * _**Hình thức:**_&#x20;
+  * \_**Mức độ nguy hiểm** \_ (có 3 mức độ: Cao, Trung bình, Thấp - áp dụng đối với website thuộc phân loại kém an toàn).
+  * _**Mức độ tin cậy**_ (có 3 mức độ: Cao, Trung bình, Thấp - áp dụng đối với website thuộc phân loại an toàn).
+  * _**Hình thức:**_
     * Đối với website kém an toàn, chúng tôi phân loại hình thức như sau: Phishing, Phần mềm độc hại, Giả mạo, Đánh bạc trực tuyến, Đồi trụy, xuyên tạc, Tấn công, Chiếm đoạt tài sản, Khác.
     * Đối với website an toàn, có thể có nhiều hình thức đa dạng khác nhau hướng đến nội dung website (ví dụ: Tin tức, Công cụ tìm kiếm,...).
   * _**Mô tả chi tiết.**_
-  * _**Đối tượng lừa đảo:** _ Đơn vị/ cá nhân/ tổ chức quản lý website thực hiện hành vi lừa đảo (áp dụng đối với website thuộc phân loại kém an toàn).
+  * \_**Đối tượng lừa đảo:** \_ Đơn vị/ cá nhân/ tổ chức quản lý website thực hiện hành vi lừa đảo (áp dụng đối với website thuộc phân loại kém an toàn).
   * _**Người quản lý:**_ Đơn vị/ cá nhân/ tổ chức quản lý website này (áp dụng đối với website thuộc phân loại an toàn).
   * _**Hình ảnh:**_ Ảnh chụp website theo mốc thời gian cụ thể.
   * _**Ảnh chụp nhanh (live preview):**_ Ảnh chụp website theo thời gian thực (khi người dùng bấm xem thông tin chi tiết) sử dụng API của _Thum.io_.
@@ -28,12 +28,12 @@ Ngoài ra, **SefiNet** khuyến khích người dùng điền vào [_biểu mẫ
 
 _Tính năng chưa hoàn thiện_
 
-Người dùng có thể thực hiện các bài kiểm tra kiến thức tương tự với việc thực hành nhận biết website là đáng tin cậy hay lừa đảo, giả mạo.&#x20;
+Người dùng có thể thực hiện các bài kiểm tra kiến thức tương tự với việc thực hành nhận biết website là đáng tin cậy hay lừa đảo, giả mạo.
 
 Một câu hỏi sẽ bao gồm:
 
 * Hình chụp, hoặc file HTML được render kèm định dạng mô phỏng lại website thực tế.
-* Đáp án là một trong 2 lựa chọn: _**Thật** _ hay _ **Giả mạo**._&#x20;
+* Đáp án là một trong 2 lựa chọn: _**Thật** hay **Giả mạo**._
 
 Bên cạnh đó, người dùng có thể xem qua các ví dụ minh họa của **SefiNet** trước khi làm bài kiểm tra kiến thức.
 
