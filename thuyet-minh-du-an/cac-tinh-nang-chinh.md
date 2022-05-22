@@ -15,7 +15,7 @@ Hệ thống cơ sở dữ liệu phân loại các website an toàn và kém an
     * Đối với website kém an toàn, chúng tôi phân loại hình thức như sau: Phishing, Phần mềm độc hại, Giả mạo, Đánh bạc trực tuyến, Đồi trụy, xuyên tạc, Tấn công, Chiếm đoạt tài sản, Khác.
     * Đối với website an toàn, có thể có nhiều hình thức đa dạng khác nhau hướng đến nội dung website (ví dụ: Tin tức, Công cụ tìm kiếm,...).
   * _**Mô tả chi tiết.**_
-  * \_**Đối tượng lừa đảo:** \_ Đơn vị/ cá nhân/ tổ chức quản lý website thực hiện hành vi lừa đảo (áp dụng đối với website thuộc phân loại kém an toàn).
+  * _**Đối tượng lừa đảo:**_ Đơn vị/ cá nhân/ tổ chức quản lý website thực hiện hành vi lừa đảo (áp dụng đối với website thuộc phân loại kém an toàn).
   * _**Người quản lý:**_ Đơn vị/ cá nhân/ tổ chức quản lý website này (áp dụng đối với website thuộc phân loại an toàn).
   * _**Hình ảnh:**_ Ảnh chụp website theo mốc thời gian cụ thể.
   * _**Ảnh chụp nhanh (live preview):**_ Ảnh chụp website theo thời gian thực (khi người dùng bấm xem thông tin chi tiết) sử dụng API của _Thum.io_.
