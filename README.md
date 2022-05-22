@@ -7,13 +7,20 @@ description: >-
 
 # 😃 Chào mừng đến với SefiNet
 
-Đường liên kết truy cập _Điều khoản dịch vụ_ và _Hướng dẫn sử dụng_ của SefiNet:
+Đường liên kết truy cập _trang Help_ của SefiNet:
 
 {% content-ref url="dieu-khoan-dich-vu.md" %}
 [dieu-khoan-dich-vu.md](dieu-khoan-dich-vu.md)
+{% endcontent-ref %}
+
+{% content-ref url="thuyet-minh-du-an/" %}
+[thuyet-minh-du-an](thuyet-minh-du-an/)
 {% endcontent-ref %}
 
 {% content-ref url="huong-dan-su-dung/" %}
 [huong-dan-su-dung](huong-dan-su-dung/)
 {% endcontent-ref %}
 
+{% content-ref url="danh-gia-san-pham/" %}
+[danh-gia-san-pham](danh-gia-san-pham/)
+{% endcontent-ref %}
