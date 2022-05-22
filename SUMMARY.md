@@ -6,6 +6,7 @@
   * [Giới thiệu sơ lược](thuyet-minh-du-an/gioi-thieu-so-luoc.md)
   * [Lý do chọn đề tài](thuyet-minh-du-an/ly-do-chon-de-tai.md)
   * [Quá trình thực hiện](thuyet-minh-du-an/qua-trinh-thuc-hien.md)
+  * [Cấu hình sản phẩm](thuyet-minh-du-an/cau-hinh-san-pham.md)
   * [Các tính năng chính](thuyet-minh-du-an/cac-tinh-nang-chinh.md)
 * [📙 Hướng dẫn sử dụng](huong-dan-su-dung/README.md)
   * [Cơ sở dữ liệu](huong-dan-su-dung/huong-dan.md)
