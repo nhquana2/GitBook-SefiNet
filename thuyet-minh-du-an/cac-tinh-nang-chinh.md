@@ -9,7 +9,7 @@ Hệ thống cơ sở dữ liệu phân loại các website an toàn và kém an
 * Tìm kiếm website trong bảng cơ sở dữ liệu hiện có theo tên miền.
 * Xem các thông tin chi tiết về website đó, bao gồm:
   * _**Tên miền.**_
-  * \_**Mức độ nguy hiểm** \_ (có 3 mức độ: Cao, Trung bình, Thấp - áp dụng đối với website thuộc phân loại kém an toàn).
+  * _**Mức độ nguy hiểm**_ (có 3 mức độ: Cao, Trung bình, Thấp - áp dụng đối với website thuộc phân loại kém an toàn).
   * _**Mức độ tin cậy**_ (có 3 mức độ: Cao, Trung bình, Thấp - áp dụng đối với website thuộc phân loại an toàn).
   * _**Hình thức:**_
     * Đối với website kém an toàn, chúng tôi phân loại hình thức như sau: Phishing, Phần mềm độc hại, Giả mạo, Đánh bạc trực tuyến, Đồi trụy, xuyên tạc, Tấn công, Chiếm đoạt tài sản, Khác.
