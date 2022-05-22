@@ -39,7 +39,7 @@ Kéo xuống phần giữa trang để xem danh sách những **website kém an 
 
 * Tuỳ chọn **Xem** để chỉnh số dòng dữ liệu website hiển thị trong một trang.
 
-![](<../.gitbook/assets/image (35) (1).png>)
+![](<../.gitbook/assets/image (35) (1) (1).png>)
 
 * Ở cuối trang, sử dụng dấu **>>**, **<<** hoặc các **số trang** để chuyển trang.
 

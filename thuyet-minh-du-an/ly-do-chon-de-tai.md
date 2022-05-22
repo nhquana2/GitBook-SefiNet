@@ -12,6 +12,8 @@ Dẫn chứng:
 * [https://vov.vn/phap-luat/hon-1-trieu-nguoi-dung-internet-o-viet-nam-truy-nhap-toi-cac-trang-web-lua-dao-post918360.vov](https://vov.vn/phap-luat/hon-1-trieu-nguoi-dung-internet-o-viet-nam-truy-nhap-toi-cac-trang-web-lua-dao-post918360.vov)
 * [https://vnexpress.net/hacker-nhan-tin-lua-binh-chon-chiem-tai-khoan-facebook-4412749.html](https://vnexpress.net/hacker-nhan-tin-lua-binh-chon-chiem-tai-khoan-facebook-4412749.html)
 
+![Hình minh hoạ: Tang vật vụ án lừa bình chọn chiếm tài khoản Facebook](<../.gitbook/assets/image (35).png>)
+
 #### Người dùng chưa trang bị tốt những kiến thức để bảo vệ bản thân khỏi các mối nguy đó
 
 Các mối đe dọa trực tuyến ngày càng trở nên tinh vi, nhưng đa số người dùng chưa biết cách nhận biết website mình đang truy cập có uy tín, an toàn hay không. Chính vì thế mà ngày càng có nhiều người dùng mắc vào "bẫy lừa" của kẻ gian.

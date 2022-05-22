@@ -9,7 +9,7 @@ Giao diện hệ thống cho phép bạn thực hiện:
 * **Làm bài kiểm tra:** Làm bài kiểm tra kiến thức nhận diện thông tin thật hay giả mạo, lừa đảo.
 * **Xem qua các ví dụ:** Xem qua các ví dụ của SefiNet để hiểu rõ trước khi làm bài kiểm tra kiến thức. (khuyến nghị xem trước khi làm bài)
 
-![](<../.gitbook/assets/image (35).png>)
+![](<../.gitbook/assets/image (35) (1).png>)
 
 ## Làm bài kiểm tra
 
