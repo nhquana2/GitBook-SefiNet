@@ -12,7 +12,7 @@
   * [Blog chia sẻ kiến thức](huong-dan-su-dung/huong-dan-su-dung-blog-chia-se-kien-thuc.md)
   * [Kiểm tra kiến thức ATTT](huong-dan-su-dung/kiem-tra-kien-thuc-attt.md)
   * [Extension kiểm soát truy cập Internet](huong-dan-su-dung/extension-kiem-soat-truy-cap-internet.md)
-* [Đánh giá sản phẩm](danh-gia-san-pham/README.md)
+* [🔎 Đánh giá sản phẩm](danh-gia-san-pham/README.md)
   * [Đánh giá chung](danh-gia-san-pham/danh-gia-chung.md)
   * [Ưu điểm, nhược điểm](danh-gia-san-pham/uu-diem-nhuoc-diem.md)
   * [Định hướng phát triển](danh-gia-san-pham/dinh-huong-phat-trien.md)
