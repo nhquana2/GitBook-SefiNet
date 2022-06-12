@@ -24,6 +24,27 @@ Tuy nhiên, một số website có thể không được cập nhật kịp th�
 
 Ngoài ra, **SefiNet** khuyến khích người dùng điền vào [_biểu mẫu báo cáo bổ sung dữ liệu website_](https://sefinet.top/bao-cao-bo-sung-du-lieu-website/) (trong trường hợp website chưa có trong CSDL) để **SefiNet** thực hiện đánh giá thủ công và thêm vào cơ sở dữ liệu. Việc báo cáo bổ sung website vào CSDL giúp bảo vệ bạn và mọi người tốt hơn.
 
+**Tiêu chí và quy trình đánh giá:**
+
+{% tabs %}
+{% tab title="First Tab" %}
+|               Tiêu chí               | Điểm cộng | Điểm trừ |
+| :----------------------------------: | :-------: | :------: |
+|               Tên miền               |           |          |
+|                Máy chủ               |           |          |
+|                  SSL                 |           |          |
+|             Nội dung thô             |           |          |
+|        Nội dung đa phương tiện       |           |          |
+|          Thuộc các danh mục          |           |          |
+|        Báo cáo của người dùng        |           |          |
+| Đánh giá của Site Safety Trend Micro |           |          |
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
 ### Kiểm tra kiến thức an toàn thông tin
 
 _Tính năng chưa hoàn thiện_
