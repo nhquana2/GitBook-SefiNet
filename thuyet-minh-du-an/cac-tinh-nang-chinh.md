@@ -27,7 +27,7 @@ Ngoài ra, **SefiNet** khuyến khích người dùng điền vào [_biểu mẫ
 **Tiêu chí và quy trình đánh giá:**
 
 {% tabs %}
-{% tab title="First Tab" %}
+{% tab title="Tiêu chí" %}
 |                                 Tiêu chí                                | Điểm cộng                                                                                                                                                                                                                                                    | Điểm trừ                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | :---------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |                                 Tên miền                                | Đuôi tên miền trả phí (.com, .net, .org, .info, .me, .top, các đuôi tên miền cấp quốc gia,...) **+10 điểm**                                                                                                                                                  | Đuôi tên miền miễn phí (.tk, .ml, .ga, .cf, .gq, .cu.cc, .cz.cc, .co.nf, .co.nr,...) **-10 điểm**                                                                                                                                                                                                                                                                                                                                                                                     |
@@ -39,10 +39,15 @@ Ngoài ra, **SefiNet** khuyến khích người dùng điền vào [_biểu mẫ
 | Đánh giá của Site Safety Trend Micro (được đánh giá xét duyệt thủ công) | <ul><li>Được đánh giá thuộc các danh mục an toàn <strong>+20 điểm</strong></li><li>Chưa được đánh giá (untested) <strong>+0 điểm</strong></li></ul>                                                                                                          | Được đánh giá thuộc các danh mục kém an toàn, nguy hiểm **-25 điểm**                                                                                                                                                                                                                                                                                                                                                                                                                  |
 {% endtab %}
 
-{% tab title="Second Tab" %}
-
+{% tab title="Quy trình" %}
+* Tiến hành tính điểm đánh giá theo các tiêu chí trong bảng.
+* Thực hiện đánh giá và thêm vào CSDL
+  * Website có từ 85 điểm trở lên: Website an toàn.
+  * Website dưới 85 điểm: Website kém an toàn.
 {% endtab %}
 {% endtabs %}
+
+
 
 ### Kiểm tra kiến thức an toàn thông tin
 
