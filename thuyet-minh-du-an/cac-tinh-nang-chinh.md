@@ -42,8 +42,8 @@ Ngoài ra, **SefiNet** khuyến khích người dùng điền vào [_biểu mẫ
 {% tab title="Quy trình" %}
 * Tiến hành tính điểm đánh giá theo các tiêu chí trong bảng.
 * Thực hiện đánh giá và thêm vào CSDL
-  * Website có từ 85 điểm trở lên: Website an toàn.
-  * Website dưới 85 điểm: Website kém an toàn.
+  * Website có từ 80 điểm trở lên: Website an toàn.
+  * Website dưới 80 điểm: Website kém an toàn.
 {% endtab %}
 {% endtabs %}
 
