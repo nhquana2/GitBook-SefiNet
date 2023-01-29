@@ -11,7 +11,7 @@ layout: landing
 
 ## Thông báo 1: SefiNet dừng hoạt động từ tháng 02/2023
 
-Trải qua thời gian thực hiện dự án SefiNet từ tháng 03/2022 đến thời điểm hiện tại, SefiNet đã đạt được nhiều giải thưởng cao trong các kỳ thi sáng tạo phần mềm, nghiên cứu khoa học cấp Thành phố và cấp Quốc gia,...&#x20;
+Trải qua thời gian thực hiện dự án SefiNet từ tháng 03/2022 đến thời điểm hiện tại, SefiNet đã đạt được một số giải thưởng trong các kỳ thi sáng tạo phần mềm, nghiên cứu khoa học cấp Thành phố và cấp Quốc gia,...&#x20;
 
 Nhằm có thêm thời gian để **tìm ra những hướng đi mới** trong quá trình phát triển dự án, **SefiNet tạm thời dừng hoạt động từ tháng 02/2023**, điều này đồng nghĩa là:
 
