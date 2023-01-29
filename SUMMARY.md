@@ -1,6 +1,7 @@
 # Table of contents
 
-* [😃 Chào mừng đến với SefiNet](README.md)
+* [SefiNet - Vì một không gian mạng an toàn](README.md)
+* [😃 Chào mừng đến với SefiNet](<README (1).md>)
 * [💡 Điều khoản dịch vụ](dieu-khoan-dich-vu.md)
 * [📖 Thuyết minh dự án](thuyet-minh-du-an/README.md)
   * [Giới thiệu sơ lược](thuyet-minh-du-an/gioi-thieu-so-luoc.md)

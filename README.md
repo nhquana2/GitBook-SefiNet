@@ -1,26 +1,11 @@
 ---
 description: >-
-  Đây là trang trợ giúp của dịch vụ SefiNet - Vì một không gian mạng an toàn.
-  Bạn vui lòng đọc qua Điều khoản dịch vụ và Hướng dẫn sử dụng để nắm rõ hơn về
-  SefiNet.
+  SefiNet là một dự án phần mềm nghiên cứu về vấn đề an toàn thông tin khi sử
+  dụng Internet.
+layout: landing
 ---
 
-# 😃 Chào mừng đến với SefiNet
+# SefiNet - Vì một không gian mạng an toàn
 
-Đường liên kết truy cập _trang Help_ của SefiNet:
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Giao diện trang chủ SefiNet khi dự án trong quá trình hoạt động</p></figcaption></figure>
 
-{% content-ref url="dieu-khoan-dich-vu.md" %}
-[dieu-khoan-dich-vu.md](dieu-khoan-dich-vu.md)
-{% endcontent-ref %}
-
-{% content-ref url="thuyet-minh-du-an/" %}
-[thuyet-minh-du-an](thuyet-minh-du-an/)
-{% endcontent-ref %}
-
-{% content-ref url="huong-dan-su-dung/" %}
-[huong-dan-su-dung](huong-dan-su-dung/)
-{% endcontent-ref %}
-
-{% content-ref url="danh-gia-san-pham/" %}
-[danh-gia-san-pham](danh-gia-san-pham/)
-{% endcontent-ref %}
