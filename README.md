@@ -9,6 +9,32 @@ layout: landing
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Giao diện trang chủ SefiNet khi dự án trong quá trình hoạt động</p></figcaption></figure>
 
+## Thông báo 2: Chuyển nhượng dự án SefiNet
+
+Thân chào quý bạn/ anh/ chị/ thầy/ cô đang truy cập trang trợ giúp của SefiNet.
+
+Đến thời điểm hiện tại, SefiNet bắt đầu nhận yêu cầu **chuyển nhượng dự án** cho quý bạn/ anh/ chị/ thầy/ cô có nhu cầu. Ở đây, "chuyển nhượng" có nghĩa là: SefiNet dừng hoạt động, bạn/ anh/ chị/ thầy/ cô sẽ **sở hữu toàn bộ dự án SefiNet** được tác giả chuyển giao. &#x20;
+
+**Sau khi chuyển nhượng dự án, quý bạn/ anh/ chị/ thầy/ cô sẽ sở hữu các thông tin sau đây:**
+
+* Toàn bộ mã nguồn của dự án SefiNet, bao gồm:
+  * Mã nguồn Wordpress và theme trang landing, blog, form báo cáo dành cho người dùng.
+  * Plugin quản lý hệ thống CSDL website.
+  * Admin panel quản lý được sắp xếp khác biệt so với nguồn mở Wordpress gốc, ngăn nắp và phù hợp với các tính năng của dự án.&#x20;
+  * Mã nguồn extension (tiện ích) kiểm tra và chuyển hướng khi gặp website kém an toàn.
+  * Mã nguồn website kiểm tra kiến thức ATTT.
+  * Nội dung trang Help (trợ giúp) mà quý vị đang truy cập.
+* Bản thuyết minh dự án và hướng dẫn sử dụng chi tiết dành cho người dùng.
+* Bản quyền hình ảnh, thương hiệu SefiNet.
+* Hỗ trợ kỹ thuật và tư vấn từ phía tác giả trong việc deploy dự án hoạt động trực tuyến, kinh nghiệm tham gia các kỳ thi sáng tạo phần mềm.
+* Database (CSDL) với hàng nghìn website an toàn và kém an toàn đã được thu thập và đánh giá.
+* Thuật toán, phương án tính điểm tin cậy đối với một website bất kỳ.
+* Tên miền sefinet.top (nếu có nhu cầu, tính phí riêng).
+
+### <mark style="color:orange;">Giá khởi điểm chuyển nhượng dự án: \~2.000.000-5.000.000đ</mark>
+
+<mark style="color:orange;">Mọi yêu cầu chuyển nhượng vui lòng liên hệ tác giả dự án bằng các thông tin bên dưới để thương lượng. Chúc quý bạn/ anh/ chị/ thầy/ cô có một ngày tốt lành.</mark>
+
 ## Thông báo 1: SefiNet dừng hoạt động từ tháng 02/2023
 
 Trải qua thời gian thực hiện dự án SefiNet từ tháng 03/2022 đến thời điểm hiện tại, SefiNet đã đạt được một số giải thưởng trong các kỳ thi sáng tạo phần mềm, nghiên cứu khoa học cấp Thành phố và cấp Quốc gia,...&#x20;
